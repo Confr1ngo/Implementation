@@ -10,7 +10,7 @@
 |P2229 [HNOI2002] 沙漠寻宝|[https://www.luogu.com.cn/problem/P2229](https://www.luogu.com.cn/problem/P2229)|4819|
 |P3695 CYaRon!语|[https://www.luogu.com.cn/problem/P3695](https://www.luogu.com.cn/problem/P3695)|7223|
 |P5013 水の斗牛|[https://www.luogu.com.cn/problem/P5013](https://www.luogu.com.cn/problem/P5013)|11511\*|
-|*P5756 [NOI2000] 程序分析器*|[https://www.luogu.com.cn/problem/P5756](https://www.luogu.com.cn/problem/P5756)|N/A|
+|P5756 [NOI2000] 程序分析器|[https://www.luogu.com.cn/problem/P5756](https://www.luogu.com.cn/problem/P5756)|2518|
 |P7426 [THUPC2017] 体育成绩统计|[https://www.luogu.com.cn/problem/P7426](https://www.luogu.com.cn/problem/P7426)|11573\*|
 |UVA12421 (Jiandan) Mua (I) - Lexical Analyzer|[https://www.luogu.com.cn/problem/UVA12421](https://www.luogu.com.cn/problem/UVA12421)|3434|
 
