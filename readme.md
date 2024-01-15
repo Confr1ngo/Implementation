@@ -10,6 +10,7 @@
 |P2229 [HNOI2002] 沙漠寻宝|[https://www.luogu.com.cn/problem/P2229](https://www.luogu.com.cn/problem/P2229)|4819|4/5|
 |P3695 CYaRon!语|[https://www.luogu.com.cn/problem/P3695](https://www.luogu.com.cn/problem/P3695)|7223|3/5|
 |P5013 水の斗牛|[https://www.luogu.com.cn/problem/P5013](https://www.luogu.com.cn/problem/P5013)|11511\*\*|3/5|
+|P5698 [CTSC1998] 算法复杂度|[https://www.luogu.com.cn/problem/P5698](https://www.luogu.com.cn/problem/P5698)|10807\*|3/5|
 |P5756 [NOI2000] 程序分析器|[https://www.luogu.com.cn/problem/P5756](https://www.luogu.com.cn/problem/P5756)|2518|4/5|
 |P7426 [THUPC2017] 体育成绩统计|[https://www.luogu.com.cn/problem/P7426](https://www.luogu.com.cn/problem/P7426)|11573\*\*|2/5|
 |UVA12412 A Typical Homework|[https://www.luogu.com.cn/problem/UVA12412](https://www.luogu.com.cn/problem/UVA12412)|11268\*|2/5|
