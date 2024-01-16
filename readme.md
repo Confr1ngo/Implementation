@@ -13,12 +13,14 @@
 |P5698 [CTSC1998] 算法复杂度|[https://www.luogu.com.cn/problem/P5698](https://www.luogu.com.cn/problem/P5698)|10807\*|3/5|
 |P5756 [NOI2000] 程序分析器|[https://www.luogu.com.cn/problem/P5756](https://www.luogu.com.cn/problem/P5756)|2518|4/5|
 |P7426 [THUPC2017] 体育成绩统计|[https://www.luogu.com.cn/problem/P7426](https://www.luogu.com.cn/problem/P7426)|11573\*\*|2/5|
+|P9754 [CSP-S 2023] 结构体|[https://www.luogu.com.cn/problem/P9754](https://www.luogu.com.cn/problem/P9754)|5138|3/5|
 |UVA12412 A Typical Homework|[https://www.luogu.com.cn/problem/UVA12412](https://www.luogu.com.cn/problem/UVA12412)|11268\*|2/5|
 |UVA12421 Mua (I) - Lexical Analyzer|[https://www.luogu.com.cn/problem/UVA12421](https://www.luogu.com.cn/problem/UVA12421)|3434|3/5|
 
 .gitignore 文件里放的是没写完的代码，写完了会更新删掉。表格里斜体的就是没写完的。
 
-带 \* 的码长表示包含新版头（5830 Bytes）。
-带 \*\* 的码长表示包含老版头（6965 Bytes）。
+带 \* 的码长表示包含新版头（5830 Bytes）；带 \*\* 的码长表示包含老版头（6965 Bytes）。
+
+P9754 是考场代码。
 
 代码过不了可以发 issue。
