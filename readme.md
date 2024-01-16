@@ -7,6 +7,7 @@
 
 |题目名|网址|码长/Bytes|可读性自评|
 |:---:|:-:|:--:|:--:|
+|P1039 [NOIP2003 提高组] 侦探推理|[https://www.luogu.com.cn/problem/P1039](https://www.luogu.com.cn/problem/P1039)|2700|4/5|
 |P2229 [HNOI2002] 沙漠寻宝|[https://www.luogu.com.cn/problem/P2229](https://www.luogu.com.cn/problem/P2229)|4819|4/5|
 |P3695 CYaRon!语|[https://www.luogu.com.cn/problem/P3695](https://www.luogu.com.cn/problem/P3695)|7223|3/5|
 |P5013 水の斗牛|[https://www.luogu.com.cn/problem/P5013](https://www.luogu.com.cn/problem/P5013)|11511\*\*|3/5|
